@@ -1,0 +1,6 @@
+{
+  "name": "FinExtract - Annual Report Extraction & Reconciliation Engine",
+  "description": "AI-powered extraction and reconciliation tool for corporate financial annual reports, extracting key balance sheet and P&L metrics with exact page citations and automated accounting sanity checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
